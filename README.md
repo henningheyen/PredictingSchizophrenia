@@ -14,4 +14,4 @@ To run the notebook locally just install all required packages.
 
 `pip install -r requirements.txt`
 
-Since Github blocks large files please download the high dimensional VBM data (`train_vbm.npz` and `test_vbm.npz`) from the [challenge website](https://ramp.studio/problems/brain_anatomy_schizophrenia). Find all details on how to get started with the code on the website as well.
+Since Github blocks large files please download the high dimensional VBM data (`train_vbm.npz` and `test_vbm.npz`) from the starting kit on the [challenge website](https://ramp.studio/problems/brain_anatomy_schizophrenia). Find all details on how to get started with the code on the website as well.
