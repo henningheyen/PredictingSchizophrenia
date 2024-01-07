@@ -10,8 +10,8 @@ The repository contains a Jupyter Notebook (as ipynb and HTML) and a Report. Ple
 
 ## Getting Started
 
-To run the notebook locally just install all required packages. 
+To run the notebook locally just install all required packages.
 
 `pip install -r requirements.txt`
 
-Find all details on how to get started in the [UCL RAMP](https://ramp.studio/problems/brain_anatomy_schizophrenia) challenge
+Since Github blocks large files please download the high dimensional VBM data (`train_vbm.npz` and `test_vbm.npz`) from the [challenge website](https://ramp.studio/problems/brain_anatomy_schizophrenia). Find all details on how to get started with the code on the website as well.
