@@ -1,6 +1,10 @@
 # PredictingSchizophrenia
 The objective of this project is to utilize grey matter measurements obtained from structural MRI brain scans to create a predictor that can differentiate between schizophrenic patients and healthy controls. This project is part of a [UCL RAMP](https://ramp.studio/problems/brain_anatomy_schizophrenia) challenge. 
 
+To run the notebook locally just install all required packages:
+
+`pip install -r requirements.txt`
+
 I am comparing three models: 
 - Logistic Regression
 - Random Forrest
